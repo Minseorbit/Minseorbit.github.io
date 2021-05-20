@@ -72,5 +72,4 @@ int main(void)
   }
   printf("입니다\n");
   return 0;
-}
-~~~
+}~~~
