@@ -53,7 +53,7 @@ int main(void)
 
 ### 03. 이 달은 며칠까지 있을까?
 ![callenderl](/assets/images/third.jpg)
-~~~C
+~~~c
 #include <stdio.h>
 
 int main(void) 
@@ -79,7 +79,7 @@ int main(void)
 ~~~
 
 ### 04. 30분 전
-~~~C
+~~~c
 #include <stdio.h>
  
 int main(void)
@@ -101,7 +101,7 @@ int main(void)
 ~~~
 
 ### 05. 책 구입
-~~~C
+~~~c
 #include <stdio.h>
 
 int main(void) 
@@ -118,9 +118,10 @@ int main(void)
  printf("책을 구입하지 못했습니다.");
   return 0;
 }
+~~~
 
 ### 06. <추가> 도어락 문제
-~~~C
+~~~c
 #include <stdio.h>
  
 int main(void)
@@ -152,7 +153,7 @@ int main(void)
 ~~~
 
 ### 07. <추가> 가위바위보 문제
-~~~C
+~~~c
 #include <stdio.h>
  
 int main(void)
@@ -171,7 +172,7 @@ int main(void)
 ~~~
 
 ### 08. switch-case문 1번
-~~C
+~~c
 #include <stdio.h>
  
 int main(void)
@@ -191,7 +192,7 @@ int main(void)
 ~~~
 
 ### 09. 성적 계산 문제
-~~~C
+~~~c
 #include <stdio.h>
  
 main(void)
